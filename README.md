@@ -9,7 +9,7 @@
 ## SDSP.m
 【别人论文实现的方法】
  - LinZhang的算法中使用的求图像显著性的方法。
- - [参考文献]L. Zhang, L. Zhang, X. Mou, and D. Zhang, “FSIM: A feature similarity index for image quality assessment,” IEEE Trans. Image Process., vol. 20, no. 8, pp. 2378–2386, Aug. 2011.
+ - **参考文献** L. Zhang, L. Zhang, X. Mou, and D. Zhang, “FSIM: A feature similarity index for image quality assessment,” IEEE Trans. Image Process., vol. 20, no. 8, pp. 2378–2386, Aug. 2011.
 
 ## sort
 【自己手动实现】
