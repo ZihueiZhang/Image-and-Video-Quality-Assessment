@@ -4,7 +4,7 @@ load('E:\DATABASE\databaserelease2\LIVE_dmos2.mat')
 dmos = zeros(982,2);
 dmos(:,1) = (1:982)';
 dmos(:,2) = dmos_new';
-dmos_sort = sortrows(dmos,2);
+dmos_sort = sortrows(dmos,-2);
 
 dir = 'E:\DATABASE\databaserelease2';
 targetDir = 'E:\DATABASE\databaserelease2\target\';
