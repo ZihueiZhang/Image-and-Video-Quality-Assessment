@@ -1,5 +1,5 @@
-# matlab-mylib
-做图像、视频质量评价（I/VQA）算法代码汇总。持续更新。
+# Image/Video-Quality-Assessment
+图像、视频质量评价（I/VQA）算法代码汇总。持续更新。
 
 ## mscn.m
  - 一种归一化方法，在BRISQUE算法中被提出。
